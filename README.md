@@ -16,17 +16,7 @@ KPIs: Displays average possession, goals, and attempts.
 
 Interactive Table: View match stats in a scrollable table.
 
-Trends Visualization: Line chart showing possession vs goals over time.
-
-🛠️ Installation & Usage
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/FIFA-22-Dashboard.git
-cd FIFA-22-Dashboard
-Install dependencies
+Trends Visualization: Line chart showing possession vs goals over time
 
 bash
 Copy
